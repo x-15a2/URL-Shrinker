@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 320px;
+  padding: 12px;
+  margin: 0;
+}
+h1 {
+  font-size: 16px;
+  margin: 0 0 8px 0;
+}
+#status {
+  color: #333;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+.row {
+  margin: 8px 0;
+}
+button {
+  padding: 6px 10px;
+  font-size: 13px;
+}
+#result {
+  margin-top: 12px;
+}
+#result.hidden {
+  display: none;
+}
+#shortUrl {
+  width: 100%;
+  padding: 6px;
+  margin-top: 6px;
+  box-sizing: border-box;
+}
+label {
+  font-size: 12px;
+  color: #555;
+}
